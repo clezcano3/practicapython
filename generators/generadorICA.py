@@ -1,5 +1,5 @@
 import random
-def generarDatosICA():
+def generarDatos():
     datosEncuesta=[]  
     for i in range(2000):
         dato={}
@@ -13,3 +13,5 @@ def generarDatosICA():
 
 
 generarDatosICA()
+
+

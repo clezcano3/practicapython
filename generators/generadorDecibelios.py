@@ -10,6 +10,6 @@ def generarDatosRuidos():
         dato=[id,nivelRuido,comuna]
         encuestaRuido.append(dato)
         
-    print(encuestaRuido)
+    return(encuestaRuido)
 generarDatosRuidos()
 
